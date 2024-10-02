@@ -39,3 +39,17 @@ body {
     background-color: #333;
     color: white;
   }  
+
+  i {
+    margin-right: 8px;  /* Add some space after the icon */
+    color: #333;        /* Default icon color */
+  }
+  
+  i.fab {
+    color: #0077b5;     /* LinkedIn blue */
+  }
+  
+  i.fa-github {
+    color: #333;        /* GitHub icon color */
+  }
+  
