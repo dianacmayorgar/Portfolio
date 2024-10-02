@@ -17,4 +17,9 @@ title: Home
 ## My Mission:  
 To enhance data-driven decision-making by providing tailored AI-powered solutions that meet the real needs of clients.
 
-[Learn More About Me](about.html) | [View My Projects](projects.html)
+## Contact
+- <i class="fas fa-envelope"></i> **Email**: dianacmayorga@hotmail.com
+- <i class="fab fa-linkedin"></i> **LinkedIn**: [dianacmayorga](https://linkedin.com/in/dianacmayorga)
+- <i class="fab fa-github"></i> **GitHub**: [dianacmayorgar](https://github.com/dianacmayorgar)
+  
+[Learn More About Me](about.html) || [View My Projects](projects.html)
