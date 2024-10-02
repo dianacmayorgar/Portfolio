@@ -24,7 +24,7 @@ body {
   
   nav ul li a {
     color: #333 !important;  /* Make the color dark and force it with !important */
-    text-decoration: none;   /* Make sure there are no underlines */
+    text-decoration: none;   /* Make sure there are no underlines */  
 }
   
   main {
