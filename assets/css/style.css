@@ -1,8 +1,9 @@
 header img {
-    max-width: 100%;    /* Ensures the image is not larger than the screen width */
-    height: auto;       /* Maintains aspect ratio */
-    display: block;     /* Ensures there is no extra space below the image */
-    margin: 0 auto;     /* Center the image */
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;   /* Ensure the image scales correctly within its container */
 }
 body {
     font-family: Arial, sans-serif;
