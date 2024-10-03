@@ -52,4 +52,45 @@ body {
   i.fa-github {
     color: #333;        /* GitHub icon color */
   }
-  
+  .technologies {
+    display: flex;
+    flex-wrap: wrap;  /* Allows wrapping to the next line if needed */
+    gap: 10px;        /* Adds spacing between badges */
+    margin: 20px 0;
+}
+
+.tech-badge {
+    padding: 10px 20px;         /* Add padding inside the badges */
+    background-color: #333;     /* Default background color */
+    color: white;               /* Default text color */
+    border-radius: 5px;         /* Rounded corners */
+    font-size: 0.9rem;          /* Slightly smaller text size */
+    font-weight: bold;
+    text-transform: uppercase;  /* All text in uppercase */
+    letter-spacing: 1px;        /* Adds space between letters */
+    display: inline-block;
+    transition: background-color 0.3s ease;  /* Smooth background change */
+}
+
+.tech-badge:hover {
+    background-color: #555;     /* Slightly darker color on hover */
+}
+
+/* Custom Colors for Specific Technologies */
+.tech-badge:nth-child(1) { background-color: #4B8BBE; } /* Python */
+.tech-badge:nth-child(2) { background-color: #276DC3; } /* R */
+.tech-badge:nth-child(3) { background-color: #F29111; } /* SQL */
+.tech-badge:nth-child(4) { background-color: #68A063; } /* NoSQL */
+.tech-badge:nth-child(5) { background-color: #FF9900; } /* AWS */
+.tech-badge:nth-child(6) { background-color: #4285F4; } /* Google Cloud */
+.tech-badge:nth-child(7) { background-color: #0078D4; } /* Microsoft Azure */
+.tech-badge:nth-child(8) { background-color: #F8B400; } /* Vertex AI */
+.tech-badge:nth-child(9) { background-color: #E6484F; } /* Power BI */
+.tech-badge:nth-child(10) { background-color: #E97627; } /* Tableau */
+.tech-badge:nth-child(11) { background-color: #C47A2D; } /* Flask */
+.tech-badge:nth-child(12) { background-color: #FF4B4B; } /* Streamlit */
+.tech-badge:nth-child(13) { background-color: #66CCFF; } /* Hadoop */
+.tech-badge:nth-child(14) { background-color: #F7931E; } /* Apache Spark */
+.tech-badge:nth-child(15) { background-color: #F5A623; } /* Dialogflow CX */
+.tech-badge:nth-child(16) { background-color: #2496ED; } /* Docker */
+.tech-badge:nth-child(17) { background-color: #F27021; } /* Web Scraping */
