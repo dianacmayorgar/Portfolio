@@ -21,6 +21,62 @@ I'm an AI Developer and Data Scientist with a strong background in psychometrics
 
 ---
 
+## Technologies and Tools
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-E1D0D1?style=for-the-badge&logo=python&logoColor=637077" alt="Python" height="30"/>
+</a>
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://img.shields.io/badge/R-637077?style=for-the-badge&logo=r&logoColor=E1D0D1" alt="R" height="30"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-BB7C4C?style=for-the-badge&logo=microsoft-sql-server&logoColor=E1D0D1" alt="SQL" height="30"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/NoSQL-637077?style=for-the-badge&logo=mongodb&logoColor=E1D0D1" alt="NoSQL" height="30"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-BB7C4C?style=for-the-badge&logo=amazon-aws&logoColor=E1D0D1" alt="AWS" height="30"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cloud-E1D0D1?style=for-the-badge&logo=google-cloud&logoColor=637077" alt="Google Cloud" height="30"/>
+</a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-637077?style=for-the-badge&logo=microsoft-azure&logoColor=E1D0D1" alt="Azure" height="30"/>
+</a>
+<a href="https://cloud.google.com/vertex-ai" target="_blank">
+  <img src="https://img.shields.io/badge/VertexAI-BB7C4C?style=for-the-badge&logo=google-cloud&logoColor=E1D0D1" alt="VertexAI" height="30"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/PowerBI-E1D0D1?style=for-the-badge&logo=power-bi&logoColor=637077" alt="PowerBI" height="30"/>
+</a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-637077?style=for-the-badge&logo=tableau&logoColor=E1D0D1" alt="Tableau" height="30"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Flask-BB7C4C?style=for-the-badge&logo=flask&logoColor=E1D0D1" alt="Flask" height="30"/>
+</a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Streamlit-E1D0D1?style=for-the-badge&logo=streamlit&logoColor=637077" alt="Streamlit" height="30"/>
+</a>
+<a href="https://hadoop.apache.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Hadoop-637077?style=for-the-badge&logo=apache-hadoop&logoColor=E1D0D1" alt="Hadoop" height="30"/>
+</a>
+<a href="https://spark.apache.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Apache_Spark-BB7C4C?style=for-the-badge&logo=apache-spark&logoColor=E1D0D1" alt="Spark" height="30"/>
+</a>
+<a href="https://cloud.google.com/dialogflow/cx" target="_blank">
+  <img src="https://img.shields.io/badge/Dialogflow_CX-E1D0D1?style=for-the-badge&logo=dialogflow&logoColor=637077" alt="Dialogflow CX" height="30"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-637077?style=for-the-badge&logo=docker&logoColor=E1D0D1" alt="Docker" height="30"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Web_scraping" target="_blank">
+  <img src="https://img.shields.io/badge/Web_Scraping-BB7C4C?style=for-the-badge&logo=web&logoColor=E1D0D1" alt="Web Scraping" height="30"/>
+</a>
+
+---
+
 ## Languages
 - Fluent in **English**, **French**, and **Spanish**.
 
@@ -63,26 +119,3 @@ Led data-driven psychometric analysis and advanced qualification processes, mana
 - Implemented machine learning algorithms for pattern recognition in test responses, boosting predictive validity by 25%.
 - Designed and implemented a comprehensive data architecture for managing large-scale psychometric databases, enabling real-time analysis and reporting.
 
----
-
-## Technologies and Tools
-
-<div class="technologies">
-    <span class="tech-badge">Python</span>
-    <span class="tech-badge">R</span>
-    <span class="tech-badge">SQL</span>
-    <span class="tech-badge">NoSQL</span>
-    <span class="tech-badge">AWS</span>
-    <span class="tech-badge">Google Cloud</span>
-    <span class="tech-badge">Microsoft Azure</span>
-    <span class="tech-badge">Vertex AI</span>
-    <span class="tech-badge">Power BI</span>
-    <span class="tech-badge">Tableau</span>
-    <span class="tech-badge">Flask</span>
-    <span class="tech-badge">Streamlit</span>
-    <span class="tech-badge">Hadoop</span>
-    <span class="tech-badge">Apache Spark</span>
-    <span class="tech-badge">Dialogflow CX</span>
-    <span class="tech-badge">Docker</span>
-    <span class="tech-badge">Web Scraping</span>
-</div>
